@@ -1,0 +1,15 @@
+{
+  "name": "kanekibot",
+  "version": "1.0.0",
+  "description": "it's a bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Whitfield",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}

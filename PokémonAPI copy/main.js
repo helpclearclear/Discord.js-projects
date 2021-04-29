@@ -17,7 +17,6 @@ function ready(){
     client.registry
     .registerGroups([
         ['misc', 'misc commands'],
-        ['moderation', 'moderation commands'],
         ['cmds', 'cmds commands']
     ])
     .registerDefaults()

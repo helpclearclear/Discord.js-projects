@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "discord.js-commando": "^0.12.3"
+  }
+}

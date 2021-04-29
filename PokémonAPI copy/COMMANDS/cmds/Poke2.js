@@ -1,3 +1,6 @@
+//WORK IN PROGRESS: trying to make the `!poke` command recursive and more efficient.
+
+
 const Commando = require('discord.js-commando')
 const Discord = require('discord.js')
 const axios = require('axios')

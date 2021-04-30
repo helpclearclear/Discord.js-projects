@@ -5,7 +5,7 @@ const Commando = require('discord.js-commando')
 const path = require('path')
 let key = '!'
 const client = new Commando.CommandoClient({
-    owner:'632399479642914849',
+    owner:process.env.owner,
     CommandPrefix:key,
 })
 

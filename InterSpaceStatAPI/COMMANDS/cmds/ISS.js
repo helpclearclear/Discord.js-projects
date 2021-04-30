@@ -1,3 +1,4 @@
+//NOT FINISHED
 const Commando = require('discord.js-commando')
 const Discord = require('discord.js')
 const axios = require('axios')

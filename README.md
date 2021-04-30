@@ -2,4 +2,4 @@
  My discord bot scripts.
 
 
-Check out main.js and /PokemonAPI copy
+Check out /PokemonAPI copy/main.js and /PokemonAPI copy/COMMANDS/cmds/Poke.js
